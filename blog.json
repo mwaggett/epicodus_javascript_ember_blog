@@ -1,0 +1,10 @@
+{ "posts": [{
+    "title": "First post!",
+    "text": "Wow this is my first post in my new blog! So cool!",
+    "username": "blogger92"
+  }, {
+    "title": "Second post!",
+    "text": "Blogging is so much fun yay!!!!!",
+    "username": "blogger92"
+  }]  
+}
