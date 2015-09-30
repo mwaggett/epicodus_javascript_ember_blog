@@ -5,4 +5,6 @@
 
 <p>Posted on {{model.date_added}}</p>
 
+{{update-post post=model updatePost="updatePost"}}
+
 <button {{action 'deletePost' model}}>Delete</button>
