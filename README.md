@@ -1,7 +1,13 @@
-# Blog
+# Blog ~UNFINISHED~
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+##### _Ember.js practice for Epicodus, 30 September 2015_
+
+#### By **Yvonne Peng & Molly Waggett**
+
+## Description
+
+This application allows users to write blog posts. It has full CRUD functionality, uses Ember, and is written in JavaScript.
+_Not yet implemented: allow users to add comments to posts (with full CRUD functionality)._
 
 ## Prerequisites
 
